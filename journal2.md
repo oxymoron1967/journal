@@ -86,3 +86,8 @@ Finished adding the blurbs, then went back and proofread things. I probably didn
 
 Tested the links to make sure they all work.
 
+Journal 9
+
+Worked on CSS via KHan Academy, tested all the things they discussed on the museums webpages. I decided most of them didn't matter for what I was doing, but did keeo some color changes. 
+
+Worked on more html tags with Khan Academy, testing stuff out and keeping what I thought was necessary for the project. Uploaded new ersion fo the project and this to github.
