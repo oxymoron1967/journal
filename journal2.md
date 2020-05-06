@@ -91,3 +91,8 @@ Journal 9
 Worked on CSS via KHan Academy, tested all the things they discussed on the museums webpages. I decided most of them didn't matter for what I was doing, but did keeo some color changes. 
 
 Worked on more html tags with Khan Academy, testing stuff out and keeping what I thought was necessary for the project. Uploaded new ersion fo the project and this to github.
+
+4/25 
+I fought with python and python won. Will go through the learn python the hard way tutorials again tomorrow or next week. Not now. Too damned frustrated. 
+
+So... worked with HTML to build a website to host my CV. Didn't finish this, but I started
