@@ -96,3 +96,23 @@ Worked on more html tags with Khan Academy, testing stuff out and keeping what I
 I fought with python and python won. Will go through the learn python the hard way tutorials again tomorrow or next week. Not now. Too damned frustrated. 
 
 So... worked with HTML to build a website to host my CV. Didn't finish this, but I started
+
+4/27 
+
+Worked more with HTML and CSS for the museum website and the CV website. Not sure where to host these things, though. 
+
+Went over the command line stuff again, because I needed to review it. 
+
+5/2
+
+More work on the CV. 
+
+Tried to use flask on my own, didn;t work well. 
+
+5/5
+
+More work on CV, proofed the musuem wesite. (Will do that again) MAy add a recording to the museum website. 
+
+5/9
+
+Went back to python. May just have to pay for the learn pythoin the hard way thing because it usually makes sens in class, but doesn;t when I play with it on my own.
